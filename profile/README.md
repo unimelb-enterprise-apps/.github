@@ -11,3 +11,4 @@ All external collaborators should have Unimelb IT access, which can be obtained 
 
 ## To Give an External collaborator access:
 Admin needs to add the user to the Azure group to grant access to the Github Organisation: https://portal.azure.com/#view/Microsoft_AAD_IAM/GroupDetailsMenuBlade/~/Overview/groupId/2d481cd7-f883-43d9-926b-9a21915929b7
+Then add the user to the required group in Github
